@@ -4,6 +4,7 @@ Viktor and Marcus
 
 I have included a ready made template for you to work off of. This is by no means binding but I liked the style for this particular site. Feel free to change whatever you want style wise but note that the client has the final authority and if they don't like what you do it will need to be changed.  Also, I will have the Lynda.com, muse-theme.com, and privatized repos by the end of the day.
 
+Lynda.com
+actionboulevardaccts@gmail.com
+@ct1onB0ul
 
-
-		
