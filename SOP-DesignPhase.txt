@@ -1,0 +1,30 @@
+Standard Operating Procedures - Design Phase
+
+We will host your build on a separate bluehost account with dummy domains for testing. I will provide the log on credentials in a separate email. You should start familiarizing yourself with the services offered through their CPanel. i.e. setting up emails, FTP protocols, etc.
+
+First iteration of the site will be to get all of the clients information on screen and lock down the basic flow of the site. 
+
+Once, we have nailed that down we will move onto design implementation. This part is usually the longest as we perform it in 3 separate rounds. 2 of which are directed by the client.
+_________________
+
+First Round
+Do whatever you think is best, although use the client provided sites for inspiration and design. This should be done with 1 week of initial contract.
+
+Push to dummy account for viewing by client.
+_________________
+
+Second Round
+Client provides feedback and we implement it. In my experience I have not had a client want to scrap the entire site but the changes are usually vast. No big deal, this is what we do.
+
+Implement all changes with no follow-on client intervention. We do not want to keep the lines of communication open because the work will never stop. Trust me. Once all corrections have been implemented push to site for viewing.
+_________________
+
+Third and Final Round
+This is their last chance to change anything so they usually over do it on the details.
+
+Implement all changes and push to their main domain.
+_________________
+
+Design phase done.
+
+

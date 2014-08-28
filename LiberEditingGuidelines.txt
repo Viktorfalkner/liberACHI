@@ -1,0 +1,80 @@
+Liber Editing Guidelines
+
+Standard Action Boulevard Guideline Shhet
+
+1.	Domain name: 
+
+Liberediting.com
+
+
+2.	Design your own logo:
+
+assets > FromEdith > LOGO.jpg
+This will need to be completely remade using vectors in illustrator.
+
+3.	Pictures:
+
+I found photos on pixaby for which the photographer waived all rights. Here is the link explaining their copyright status:
+
+http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+
+4.	5 example websites:
+
+•	http://inkwater.com
+•	http://dreibholz.com
+•	http://www.mariohugo.com
+•	http://biblioteket.me
+•	http://macguruconsulting.com
+
+
+5.	Bullet list of things wanted on website:
+
+•	Price: $15 per hour minimum for proofreading, $18 for editing, $20 for formatting
+•	Will edit a page of your work for free so you can decide if you want my service
+•	Credentials: education & related work experience
+•	I follow the Chicago Manual of Style guidelines but can use other ones upon request.
+•	Client Reviews
+•	Detailed description of experience in the field and what can be expected: [See doc]
+
+6.	Five important words to find your site. How would a customer find editing work:
+
+
+Editing, proofreading, copyediting, photo editing, formatting
+
+
+7.	Color Scheme: all or some of these: black, white, gray, brown, gold
+
+________________________________________________________________________
+
+Additional noted from client
+
+Editing Ad
+
+1.	Price: $15 per hour minimum for proofreading, $18 for editing, $20 for formatting
+2.	Will edit a page of your work for free so you can decide if you want my service
+3.	By default, I follow the Chicago Manual of Style guidelines, but I can use other style guides upon request.
+4.	Work experience: I’ve worked primarily with manuscript authors as an editor at all levels, ranging from proofreading to substantive editing bordering on ghostwriting. I do copy editing and line editing also. In formatting books, I typically use Adobe Acrobat to prepare PDFs of manuscripts for print, or as ebooks, or else for presentation to an agent or publishing house. I also have experience with the editing and inclusion of photos into manuscripts. These skills together with others picked up along the way, allow me to guide and complete the creation of a book from initial idea to print-ready draft. 
+5.	Education:
+  Masters in Liberal Studies from Reed College
+  Bachelor’s degree in Philosophy and minor in English from University of California, Davis
+6.	link to FB business page: https://www.facebook.com/LiberEditing
+7.	References available upon request.
+8.	All inquiries welcome! 
+
+Reviews
+
+Both of you should write one for her, have her proofread them and inlude them with these somewhere on the site. I will also be writing her one, that she will proofread, and will be included. Also, the review page will be blocked from being indexed so do not worry about trying to optimize any of these reviews for SEO. I will show you how to do that later using the robots.txt file.
+____________________
+
+Edith Zdunich is a highly qualified proof reader and editor. I have dealt with many professionals in the field over the years, but Edith is the best, in my opinion. Her willingness to adapt to the unconventional writing style in my manuscript was the biggest plus for me. Flexibility and workability are to be highly prized and Edith definitely has both.
+ 
+Tom Muzzio - President
+Territorial Enterprise Historical and Educational Foundation (501 c 3).
+_____________________
+
+Edith did a diligent job of editing and otherwise preparing Albert Patecky in New York: Letters Home from the Art Students League. It was an awesome job and one that she accomplished superbly alongside other projects she’s helped me with. I look forward to having her do future work for me.
+
+Kenneth Patecky
+______________________
+
